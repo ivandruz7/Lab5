@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.example","l":"Amunition"},{"p":"org.example","l":"Chestplate"},{"p":"org.example","l":"Helmet"},{"p":"org.example","l":"Knight"},{"p":"org.example","l":"Main"},{"p":"org.example","l":"Shield"},{"p":"org.example","l":"Sword"}];updateSearchResults();
