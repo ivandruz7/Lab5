@@ -1,7 +1,7 @@
 package org.example;
 
 /**
- * Клас нащадок {@link Amunition} який описує елемент амуніції - меч
+ * Клас нащадок {@link Amunition} який описує елемент амуніції - щит
  */
 public class Shield extends Amunition{
 
